@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+
+# Resources
+vader_lexicon
+*.wav
+*.mp4
